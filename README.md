@@ -1,6 +1,6 @@
 This is a Twitter Bot that will  add friends and Direct Message automatically without being banned or shadow banned by the api/community
 
-his project utilizes the Tweepy library to interact with the Twitter API, enabling automated actions such as tweeting, liking, retweeting, and streaming real-time tweets based on defined rules. Here's a breakdown:
+This project utilizes the Tweepy library to interact with the Twitter API, enabling automated actions such as tweeting, liking, retweeting, and streaming real-time tweets based on defined rules. Here's a breakdown:
 
 Setup and Authentication:
 
